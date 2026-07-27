@@ -126,6 +126,29 @@ GEMINI_API_KEY=TU_API_KEY
 ```bash
 python -m streamlit run interfaz.py
 ```
+## 💬 Ejemplos de uso
+
+FiberBot AI puede responder preguntas relacionadas con la documentación técnica incorporada en su base de conocimiento.
+
+### Ejemplo 1
+
+**Pregunta:**
+
+> ¿Cuáles son las medidas de seguridad que debo seguir al realizar trabajos de fibra óptica?
+
+**Respuesta:**
+
+FiberBot AI recupera información relevante de los documentos técnicos y proporciona medidas y lineamientos de seguridad aplicables a trabajos de construcción, mantenimiento e instalación de redes de fibra óptica.
+
+### Otras preguntas que puede responder
+
+- ¿Qué medidas de seguridad deben aplicarse durante la instalación de fibra óptica?
+- ¿Qué es una red GPON?
+- ¿Cuáles son los principales componentes de una red de fibra óptica?
+- ¿Qué recomendaciones deben seguirse durante trabajos de construcción de redes?
+- ¿Qué procedimientos técnicos aparecen en los manuales disponibles?
+
+Las respuestas son generadas utilizando los fragmentos relevantes recuperados de la base documental mediante búsqueda semántica.
 
 ## ☁️ Deploy
 
