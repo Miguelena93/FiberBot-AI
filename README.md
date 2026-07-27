@@ -158,7 +158,7 @@ La API Key de Gemini se administra mediante el sistema de **Secrets** de Streaml
 
 ## 📸 FiberBot AI funcionando en la nube
 
-![FiberBot AI ejecutándose en Streamlit Cloud](assets/FiberBot AI_deploy.png)
+![FiberBot AI ejecutándose en Streamlit Cloud](assets/FiberBotAI_deploy.png)
 
 La imagen anterior muestra FiberBot AI ejecutándose desde su URL pública y respondiendo una consulta técnica utilizando su base de conocimiento.
 
